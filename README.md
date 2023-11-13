@@ -6,6 +6,6 @@
   Preprocessing data
   Building model 
 - Prediction of Indian movie ratings on IMDb 
-- Dataset from [Kaggle]([https://www.kaggle.com/datasets/brendan45774/test-file](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)
+- Dataset from [Kaggle](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)
 
 ^_^
